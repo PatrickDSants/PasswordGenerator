@@ -1,6 +1,6 @@
 <h1 align="center" id="Título-e-Imagem-de-capa"> Password Generator </h1>
 
-<a href= "https://patrickdsants.github.io/PasswordGenerator/">SITE HERE</a>
+<a href= "https://patrickdsants.github.io/PasswordGenerator/"> SITE HERE</a>
 
 <p align="center">
 <a href="https://github.com/PatrickDSants/landingpage/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/PatrickDSants/landingpage?style=for-the-badge"></a>
