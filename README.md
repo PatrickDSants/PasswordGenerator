@@ -24,7 +24,7 @@
 <div align="justify">
 <p>Gerador de senhas usando vanila JS.</p>
   
-![Captura de Tela (238)](https://user-images.githubusercontent.com/94023842/191388513-7e49afb1-9f1f-48ac-ba88-7605045b258a.png)
+![Captura de Tela (239)](https://user-images.githubusercontent.com/94023842/191412800-c6d18001-8f91-4bf3-8e4f-aaab807d3b25.png)
 
 </div>
 
